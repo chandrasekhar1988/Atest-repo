@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # 1. Path to the folder containing old log files
-LOG_DIR="/tmp/shellscript-logs"
+LOG_DIR="/tmp/app-logs"
 
 # 2. Number of days old a file must be to be deleted
 DAYS_OLD=7
